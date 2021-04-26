@@ -7,7 +7,6 @@
   
   [TOC]
   
-  
   # Conceptos  generales  de la comunicaciones digitales
   ## Introduccion
   ## Ventajas  de las comunicaciones
