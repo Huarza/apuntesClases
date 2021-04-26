@@ -1,4 +1,6 @@
 node_modules
-
-json
+.json
+*.md
+.md
+*.json
 *.jpg
