@@ -16,7 +16,7 @@
 ##Nivel fisico de la red
 ###Cables
 ###Enlace por fibra optica
-###Modems telefonicos 
+###Modems telefonicos
 ###Codificación y  sincronización de datos
 ##Enlaces estándar: Nivel  físico
 ###RS-232C
