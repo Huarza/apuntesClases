@@ -3,8 +3,6 @@
 
   **Tabla de contenidos**
 
-  [TOCM]
-
   [TOC]
 
   #Conceptos  generales  de la comunicaciones digitales
