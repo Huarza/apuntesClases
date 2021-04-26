@@ -1,5 +1,5 @@
-  # Curso AAARedes industriales SCADA Y DCS
-  ![](https://i.pinimg.com/originals/a2/b5/19/a2b519c7bd52bc63ea6052964790ebec.png)
+  # Curso AAARedes industriales SCADA Y DCS 
+  ![] (https://i.pinimg.com/originals/a2/b5/19/a2b519c7bd52bc63ea6052964790ebec.png)
 
   ** Tabla de contenidos **
   
