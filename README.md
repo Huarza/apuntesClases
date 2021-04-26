@@ -1,12 +1,12 @@
   # Curso Redes industriales SCADA Y DCS 
   ![](https://i.pinimg.com/originals/a2/b5/19/a2b519c7bd52bc63ea6052964790ebec.png)
   
-  **Table of Contents**
-  
-  [TOCM]
-  
-  [TOC]
-  
+**Table of Contents**
+
+[TOCM]
+
+[TOC]
+
   # Conceptos  generales  de la comunicaciones digitales
   ## Introduccion
   ## Ventajas  de las comunicaciones
